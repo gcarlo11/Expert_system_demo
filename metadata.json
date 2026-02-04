@@ -1,0 +1,5 @@
+{
+  "name": "RespiraExpert",
+  "description": "Sistem Pakar Diagnosa Penyakit Pernapasan menggunakan metode Forward Chaining berdasarkan tabel keputusan medis.",
+  "requestFramePermissions": []
+}
